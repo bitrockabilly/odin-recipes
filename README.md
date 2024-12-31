@@ -1,3 +1,3 @@
 # odin-recipes
 
-"Building a websit using basic HTML with Git commits and Github repo I made earlier using terminal and VSCode via my SSH key. I expect to be able to hone my skillsets of website creation, coding using html, creating good folder structure and naming conventions, using good practice in commit messages with understandable messages for future when working with other developers."
+"Building a very basic website page with simple links and no navbar. Using intro level HTML with focus on workflow using Git commits and Github repo I made earlier for using the Odin Project Training. On Mac OS Latest Version as of Dec 30 2024. Most commands and builds using terminal and VSCode. I expect to be able to hone skillsets for full-stack development. Goals to create good habits: folder structure, naming conventions, good consistency in commits with relevant messages for future when working with other developers.
